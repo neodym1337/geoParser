@@ -1,0 +1,14 @@
+{
+  "name": "logparser",
+  "version": "1.0.0",
+  "description": "Log parser for sts",
+  "main": "logparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geojson": "^0.2.1"
+  }
+}
